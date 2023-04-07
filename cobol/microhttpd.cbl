@@ -5,6 +5,7 @@
 *> This free software is licensed under the GPL 2 without warranty
 *> Purpose:   GnuCOBOL minimal micro web server
 *> Tectonics: cobc -x gnucobol-microhttpd.cob -lmicrohttpd
+*> Reference: https://gnucobol.sourceforge.io/faq/gcfaq.html#can-gnucobol-be-used-to-serve-http
 *> ***************************************************************
 
 identification division.
