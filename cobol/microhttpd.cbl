@@ -1,3 +1,12 @@
+*> ***************************************************************
+*> Author:    Brian Tiffin
+*> Date:      20140420
+*> Copyright (c) 2014, Brian Tiffin
+*> This free software is licensed under the GPL 2 without warranty
+*> Purpose:   GnuCOBOL minimal micro web server
+*> Tectonics: cobc -x gnucobol-microhttpd.cob -lmicrohttpd
+*> ***************************************************************
+
 identification division.
 PROGRAM-ID. microhttpd.
 
